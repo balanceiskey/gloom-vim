@@ -1,0 +1,12 @@
+name: 'gloom-vim'
+version: '1.0.0'
+license: 'MIT'
+author: 'Sundeep Malladi'
+url: 'https://github.com/balanceiskey/gloom-vim'
+description: "A vim port of hejrobin's excellent gloom colorscheme"
+colorschemes:
+  - name: gloom-vim
+    background: 'dark'
+    palette: gloom-vim
+
+

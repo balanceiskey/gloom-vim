@@ -1,0 +1,27 @@
+markdownH1: 'typedefgreen' # htmlH1
+markdownH2: 'typedefgreen' # htmlH2
+markdownH3: 'typedefgreen' # htmlH3
+markdownH4: 'typedefgreen' # htmlH4
+markdownH5: 'typedefgreen' # htmlH5
+markdownH6: 'typedefgreen' # htmlH6
+markdownHeadingRule: '' # markdownRule
+markdownHeadingDelimiter: '' # Delimiter
+markdownOrderedListMarker: 'typestoragepink' # markdownListMarker
+markdownListMarker: 'typestoragepink' # htmlTagName
+markdownBlockquote: 'foreground background i' # Comment
+markdownRule: '' # PreProc
+markdownLinkText: 'typelangpurple' # htmlLink
+markdownIdDeclaration: '' # Typedef
+markdownId: 'typelangpurple - u' # Type
+markdownAutomaticLink: '' # markdownUrl
+markdownUrl: 'cursorgreen' # Float
+markdownUrlTitle: '' # String
+markdownIdDelimiter: '' # markdownLinkDelimiter
+markdownUrlDelimiter: 'typekeywordblue' # htmlTag
+markdownUrlTitleDelimiter: '' # Delimiter
+markdownItalic: 'typekeywordblue - i' # htmlItalic
+markdownBold: 'typelangpurple - b' # htmlBold
+markdownBoldItalic: '' # htmlBoldItalic
+markdownCodeDelimiter: '' # Delimiter
+markdownEscape: '' # Special
+markdownError: '' # Error

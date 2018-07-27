@@ -1,0 +1,82 @@
+# BASE UI
+ColorColumn: '- guidepurple'
+Conceal: 'foreground background'
+Cursor: 'background cursorgreen'
+CursorIM: 'foreground background'
+CursorColumn: '- guidepurple'
+CursorLine: '- guidepurple'
+Directory: 'foreground background'
+DiffAdd: 'foreground background'
+DiffChange: 'foreground background'
+DiffDelete: 'foreground background'
+DiffText: 'foreground background'
+ErrorMsg: 'foreground background'
+VertSplit: 'sanjuan background'
+Folded: 'foreground background'
+FoldColumn: 'foreground background'
+SignColumn: 'foreground background'
+IncSearch: '- rhino u'
+CursorLineNr: 'darkgray background' 
+LineNr: 'sanjuan background'
+MatchParen: 'background carribeangreen b'
+ModeMsg: 'foreground background'
+MoreMsg: 'foreground background'
+NonText: 'foreground background'
+Normal: 'foreground background'
+PMenu: 'foreground background'
+PMenuSel: 'foreground background'
+PmenuSbar: 'foreground background'
+PmenuThumb: 'foreground background'
+Question: 'foreground background'
+Search: '- fiord u'
+SpecialKey: 'commentpurple background'
+SpellBad: 'foreground sanjuan'
+SpellLocal: 'foreground background'
+SpellCap: 'foreground background'
+SpellRare: 'foreground background'
+StatusLine: 'foreground steelgray'
+StatusLineNC: 'foreground background'
+TabLine: 'foreground background'
+TabLineFill: 'foreground background'
+TabLineSel: 'foreground background'
+Title: 'foreground background'
+Visual: '- gigas'
+VisualNOS: 'foreground background'
+WarningMsg: 'foreground background'
+WildMenu: 'foreground background'
+# BASE SYNTAX
+Comment: 'commentpurple - i'
+Constant: 'foreground background'
+String: 'cursorgreen' # Constant
+Character: 'foreground background' # Constant
+Boolean: 'foreground background' # Constant
+Number: 'foreground background' # Constant
+Float: 'foreground background' # Constant
+Identifier: 'foreground background'
+Function: 'foreground background' # Identifier
+Statement: 'foreground background'
+Conditional: 'foreground background' # Statement
+Repeat: 'foreground background' # Statement
+Label: 'foreground background' # Statement
+Operator: 'foreground background' # Statement
+Keyword: 'typestoragepink' # Statement
+Exception: 'foreground background' # Statement
+PreProc: 'foreground background'
+Include: 'foreground background' # PreProc
+Define: 'foreground background' # PreProc
+Macro: 'foreground background' # PreProc
+PreCondit: 'foreground background' # PreProc
+Type: 'foreground background'
+StorageClass: 'foreground background' # Type
+Structure: 'foreground background' # Type
+Typedef: 'foreground background' # Type
+Special: 'foreground background'
+SpecialChar: 'foreground background' # Special
+Tag: 'foreground background' # Special
+Delimiter: 'foreground background' # Special
+SpecialComment: 'foreground background' # Special
+Debug: 'foreground background' # Special
+Underlined: 'foreground background'
+Ignore: 'foreground background'
+Error: 'foreground background'
+Todo: 'foreground background'
